@@ -74,3 +74,8 @@
 .image-rounded{
     border-radius: 50%;
 }
+
+.accordion-button:not(.collapsed) {
+    color: #383838;
+    
+}
