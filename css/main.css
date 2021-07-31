@@ -79,3 +79,20 @@
     color: #383838;
     
 }
+.btn-news{
+    padding: 15px 25px;
+    border: 1px solid #E76F51;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #E76F51;
+}
+
+.btn-news:hover{
+    color: #FFFFFF;
+    background: #E76F51;
+}
