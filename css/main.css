@@ -1,0 +1,76 @@
+/* Google Fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+ 
+/* Variable style  */
+:root{
+    --Poppins:'Poppins', sans-serif;
+    --Inter:'Poppins', sans-serif;
+}
+
+
+.button{
+    background: #E76F51;
+    border-radius: 5px;
+    font-family: var(--Poppins);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.fs-0{
+    font-size: 48px;
+}
+.fs-7{
+    font-size: 14px;
+    line-height: 22px;
+}
+.fw-500{
+    font-weight: 500;
+}
+.ff-poppins{
+    font-family: var(--Poppins);
+}
+.ff-Inter{
+    font-family: var(--Inter);
+}
+.ls-1{
+    letter-spacing: 0.2px;
+}
+.lh-xl{
+    line-height: 72px;
+}
+.text-light-50{
+   color:#E0E0E0;
+}
+.text-orange{
+    color: #E76F51;
+}
+.text-gray-100{
+    color: #6C6C6C;
+}
+.text-gray-50{
+    color: #7E848C;
+}
+.text-blue-100{
+    color: #23A6F0;
+}
+.bg-orange{
+   color: #E77C40;
+}
+.gray-scale{
+    filter: grayscale(100%);
+}
+.feature-bike{
+    width: 288px;
+    height: 243px;
+}
+.user-img{
+    width: 149px;
+    height: 149px;
+}
+.image-rounded{
+    border-radius: 50%;
+}
